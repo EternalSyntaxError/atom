@@ -72,9 +72,9 @@ repeat these steps to upgrade to future releases.
 
 ## Building
 
-* [Linux](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-linux)
-* [macOS](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-mac)
-* [Windows](https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-windows)
+* [Linux](http://web.archive.org/web/20220609225802/https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-linux)
+* [macOS](http://web.archive.org/web/20220609225802/https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-mac)
+* [Windows](http://web.archive.org/web/20220609225802/https://flight-manual.atom.io/hacking-atom/sections/hacking-on-atom-core/#platform-windows)
 
 ## Discussion
 
