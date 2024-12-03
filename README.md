@@ -1,6 +1,6 @@
 # EternalSyntaxError's version
 
-Hello, I forked the text editor known as Atom (one of my favorite text editors before it shutdown in 2022) and put it into this repository so that I can use Dependabot and other automated security tools to keep Atom as secure as possible for the forseeable future. Of course, I don't intend to actually build binaries as I have since moved on. But, I will be very grateful if someone comes along and writes a GitHub Actions file to build proper binaries. Thanks for reading!
+Hello, I forked the text editor known as Atom (one of my favorite text editors before its shutdown in 2022) and put it into this repository so that I can use Dependabot and other automated security tools to keep Atom as secure as possible for the forseeable future. Of course, I don't intend to actually build binaries as I have since moved on. But, I will be very grateful if someone comes along and writes a GitHub Actions file to build proper binaries. Thanks for reading!
 
 Note: I have "repaired" the Build Instructions link at the bottom if you would like to try writing a GitHub Actions file.
 
