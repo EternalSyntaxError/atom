@@ -136,7 +136,7 @@
     "open-on-github": "git+https://github.com/atom/open-on-github.git#c12ffbe",
     "package-generator": "git+https://github.com/atom/package-generator.git#5c45f80",
     "pathwatcher": "^8.1.2",
-    "postcss": "8.4.49",
+    "postcss": "8.5.1",
     "postcss-selector-parser": "7.0.0",
     "prebuild-install": "7.1.2",
     "property-accessors": "^1.1.3",
